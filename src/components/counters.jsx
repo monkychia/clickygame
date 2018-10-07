@@ -30,7 +30,7 @@ class Counters extends Component {
 
         cell.push(
           <td key={cellID} id={cellID} value={value} onClick={boundHandleImage}>
-            <img src={imageTag} />
+            <img src={imageTag} alt={counter} />
           </td>
         );
       }
