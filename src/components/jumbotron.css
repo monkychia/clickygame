@@ -1,0 +1,8 @@
+.jumboText {
+  text-align: center;
+}
+
+.banner {
+  background-image: url("../images/texture.jpg");
+  margin-top: 100px;
+}
